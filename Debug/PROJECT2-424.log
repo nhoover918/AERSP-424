@@ -1,0 +1,7 @@
+﻿  PROJECT2-424.cpp
+C:\Users\nhoov\Desktop\PROJECT2-424\PROJECT2-424.cpp(224,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nhoov\Desktop\PROJECT2-424\PROJECT2-424.cpp(224,46): warning C4244:         with
+C:\Users\nhoov\Desktop\PROJECT2-424\PROJECT2-424.cpp(224,46): warning C4244:         [
+C:\Users\nhoov\Desktop\PROJECT2-424\PROJECT2-424.cpp(224,46): warning C4244:             T=float
+C:\Users\nhoov\Desktop\PROJECT2-424\PROJECT2-424.cpp(224,46): warning C4244:         ]
+  PROJECT2-424.vcxproj -> C:\Users\nhoov\Desktop\PROJECT2-424\x64\Debug\PROJECT2-424.exe
